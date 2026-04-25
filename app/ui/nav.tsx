@@ -8,8 +8,6 @@ import {
   faChalkboardUser,
   faCircleInfo,
   faHandHoldingHeart,
-  faRightFromBracket,
-  faTableColumns,
   faXmark,
 } from "@fortawesome/free-solid-svg-icons";
 import { useState } from "react";
